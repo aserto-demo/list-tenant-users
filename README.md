@@ -1,4 +1,4 @@
-# get-users
+# list-tenant-users
 
 This script returns the users in a tenant.
 

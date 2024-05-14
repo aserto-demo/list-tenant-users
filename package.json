@@ -1,5 +1,5 @@
 {
-  "name": "get-users",
+  "name": "list-tenant-users",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Aserto",
+  "license": "Apache-2.0",
   "dependencies": {
     "axios": "^1.6.8",
     "dotenv": "^16.4.5"
